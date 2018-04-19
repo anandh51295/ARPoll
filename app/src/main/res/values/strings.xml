@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pollster</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="login">Login</string>
+    <string name="hello_blank_fragment">Login Form</string>
+    <string name="pref_file">com.tekbeast.preference_file</string>
+    <string name="pref_login_status">com.tekbeast.preference_login_status</string>
+    <string name="pref_user_name">com.tekbeast.preference_user_name</string>
+    <string name="add_questions">ADD Questions</string>
+    <string name="vote">Vote</string>
+    <string name="results">Results</string>
+    <string name="history">History</string>
+    <string name="welcome">Welcome</string>
+    <string name="logout">Logout</string>
+    <string name="add_ques">Add Questions</string>
+    <string name="submit">Submit</string>
+    <string name="question">Question</string>
+    <string name="option_a">Option A</string>
+    <string name="option_b">Option B</string>
+    <string name="option_c">Option C</string>
+</resources>
